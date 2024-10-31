@@ -1,0 +1,5 @@
+# Ignore system files
+AppData/
+node_modules/
+*.log
+.env
